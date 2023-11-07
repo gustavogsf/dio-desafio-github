@@ -21,7 +21,7 @@ São os sistemas que realizam o controle de versões dos arquivos de projetos ao
 ### VCS Centralizado (CVCS) - CVS, Subversion
 * Neste tipo, todos os arquivos ficam centralizados em um único servidor central e caso o servidor não esteja disponível, todos os usuários que precisam trabalhar com os arquivos, não terão mais acesso para salvar, recuperar, etc.
 
-### VCS Distribuído (DVCS) - Git- Mercurial
+### VCS Distribuído (DVCS) - Git, Mercurial
 * Neste outro tipo, os bancos de versões são duplicados localmente para cada usuário, permitindo que todos tenham cópias que não ficaram fora do ar caso o servidor caia, dessa forma, permanecem com o acesso aos arquivos.
 
 > 💡 Os clones servem como backups da aplicação, possibilitando o fluxo de trabalho flexível e sem a necessidade da conexão à rede.
