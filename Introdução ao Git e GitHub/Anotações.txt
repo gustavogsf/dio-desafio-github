@@ -1,0 +1,2 @@
+Link para acessar minha conta no GitHub: https://github.com/gustavogsf
+O Git Bach é um terminal extendido para otimizar o uso do Git
