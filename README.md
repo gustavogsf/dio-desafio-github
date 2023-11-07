@@ -7,4 +7,4 @@ Versionamento de Códigos com Git e GitHub, apresentado pela teacher Elidiana An
 
 
 ## Certificado
-<img title="a title" alt="Alt text" src="/assets/CERTIFICADO.png">
+<img title="Certificado Versionamento de Códigos com Git e GitHub" alt="Certificado do curso de versionamento da DIO" src="Versionamento de Código com Git e GitHub/assets/CERTIFICADO.png">
